@@ -1,1 +1,1 @@
-This GitHub Organization stores projects developed by students in the lab of [Niema Moshiri](https://niema.net). For my own projects, see my GitHub account ([niemasd](https://github.com/niemasd)).
+This GitHub Organization stores projects developed in my lab (I'm [Niema Moshiri](https://niema.net)), either by students in the lab or through collaboration projects. For my own projects, see my GitHub account ([niemasd](https://github.com/niemasd)).
